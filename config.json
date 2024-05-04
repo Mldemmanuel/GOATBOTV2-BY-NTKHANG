@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
     "email": "pmld3100@gmail.com",
-    "password": "jaguad",
+    "password": "jaguard",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,9 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100085261760009",
-    ""
-  ],
+    "100085261760009" ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
